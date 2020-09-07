@@ -1,11 +1,6 @@
 class ChattyStudent < Student 
 
   
-
-  def initialize(student)
-    @student
-  end
-  
   def hello
     puts "Hey, there!  I'm so excited to learn stuff."
   end
